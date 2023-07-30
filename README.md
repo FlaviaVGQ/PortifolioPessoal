@@ -1,3 +1,3 @@
 # Portifólio Pessoal
  
- - Projeto da diciplina de Tecnologia de Desenvolvimento de Interface Gráfica.
+ - Projeto da disciplina de Tecnologia de Desenvolvimento de Interface Gráfica.
